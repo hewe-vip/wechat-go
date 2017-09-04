@@ -33,7 +33,7 @@ import (
 
 const (
 	// msg types
-	MSG_TEXT        = 1     // text message
+	MSG_TEXT        = 1     // 文本消息
 	MSG_IMG         = 3     // image message
 	MSG_VOICE       = 34    // voice message
 	MSG_FV          = 37    // friend verification message
