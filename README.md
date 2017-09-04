@@ -6,7 +6,7 @@
 [![codebeat badge](https://codebeat.co/badges/4f78bcb2-bf75-477d-a8f4-b09fde3dae80)](https://codebeat.co/projects/github-com-songtianyi-wechat-go-master)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
-** 基于github.com/songtianyi/wechat-go 维护的一个版本**
+**基于github.com/songtianyi/wechat-go 维护的一个版本**
 
 微信web版API的go实现，模拟微信网页版的登录／联系人／消息收发等功能，可以完全接管微信收到的消息, 并定制自己的发送内容
 
